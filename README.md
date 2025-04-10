@@ -46,5 +46,6 @@
 📫 ¿Quieres contactarme?
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilmar-smith-calvo-joaqu%C3%ADn-41b254332/)
 - 📬 Email: guilmarscj@gmail.com y cancan22joaquin@gmail.com
+- Portafolio: (https://guilmarcj.github.io/Portafolio/)
 
 > 💡 *Estoy buscando prácticas preprofesionales donde pueda aportar valor mientras sigo creciendo como desarrollador.*

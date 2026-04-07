@@ -1,51 +1,94 @@
-# 👋 ¡Hola! Soy Guilmar Smith Calvo Joaquin.  
-### Estudiante de Computación e Informática | Desarrollador Web Junior | Apasionado por la tecnología
+# 👋 ¡Hola! Soy Guilmar Smith Calvo Joaquín  
 
-🎓 Actualmente curso el cuarto ciclo en **CIBERTEC**, con gran interés en el desarrollo web full-stack, bases de datos y la creación de soluciones tecnológicas.
+### 💻 Backend Developer Junior | Full Stack Developer | Cloud Enthusiast  
 
-🚀 Estoy en constante aprendizaje y ya cuento con experiencia desarrollando:
-- Aplicaciones web usando **PHP, Laravel, Symfony, Java y Spring Boot**
-- Proyectos front-end con **React.js y Angular**
-- Bases de datos relacionales y NoSQL (**MySQL, SQL Server, MongoDB**)
-- Páginas y CMS con **WordPress**
-- Juegos y proyectos educativos usando **JavaScript, Firebase y Three.js**
+🎓 Técnico egresado en Computación e Informática (Cibertec) y estudiante de 5.º ciclo de Ingeniería de Sistemas en la UPC.  
+🚀 Enfocado en el desarrollo backend con Java (Spring Boot) y .NET, construcción de APIs REST y despliegue en la nube.
 
-🔧 Habilidades Técnicas:
+---
 
-- **Lenguajes:** PHP, Java, JavaScript, TypeScript, C#
-- **Frameworks:** Laravel, Symfony, Spring Boot
-- **Bases de datos:** SQL, MySQL, MongoDB
-- **Front-End:** HTML, CSS, React.js, Angular
-- **DevOps y Hosting:** 
-  - **Azure App Service:** Despliegue de aplicaciones ASP.NET y APIs
-  - **Firebase:** Hosting web, autenticación y base de datos en tiempo real
-  - **WampServer:** Entorno local para PHP y MySQL
-- **Herramientas:** Git, SonarQube, IBM Rhapsody, Visual Studio, Eclipse
-- **Idiomas:** Inglés (intermedio)
+## 🧠 Sobre mí
 
+Soy desarrollador orientado a la creación de soluciones escalables, seguras y bien estructuradas.  
+Tengo experiencia académica desarrollando aplicaciones web y móviles, aplicando buenas prácticas como arquitectura en capas, validación de datos, manejo de excepciones y documentación de APIs.
 
-📚 Certificaciones:
-- Java 21
-- Linux Essentials
-- Python
-- SQL Server Fundamentals
-- Desarrollo Backend con Java y Spring Boot
-- Análisis de Datos con Python
-- Desarrollo Web
-- CSS Avanzado
-- English for Developers & IT Professionals
+Actualmente busco oportunidades como **practicante o desarrollador junior**, donde pueda aportar valor y seguir creciendo profesionalmente.
 
-☁️ Experiencia en la Nube:
+---
 
-- Despliegue de aplicaciones web en **Azure App Service** (.NET, Node.js)
-- Uso de **Firebase** para juegos multijugador, bases de datos NoSQL y autenticación
-- Testing y desarrollo local de proyectos PHP con **WampServer**
+## ⚙️ Tecnologías principales
 
-🌱 Actualmente aprendiendo: **Next.js, Docker y mejores prácticas en arquitectura web.**
+### 🚀 Backend
+- Java + Spring Boot (APIs REST, JPA/Hibernate)
+- .NET (C#) – APIs REST con autenticación JWT
+- Node.js + Express (básico)
 
-📫 ¿Quieres contactarme?
-- 💼 [LinkedIn](https://www.linkedin.com/in/guilmar-smith-calvo-joaqu%C3%ADn-41b254332/)
-- 📬 Email: guilmarscj@gmail.com y cancan22joaquin@gmail.com
-- Portafolio: (https://guilmarcj.github.io/Portafolio/)
+### 🎨 Frontend
+- Angular / React
+- HTML, CSS, JavaScript, TypeScript
 
-> 💡 *Estoy buscando prácticas preprofesionales donde pueda aportar valor mientras sigo creciendo como desarrollador.*
+### 🗄️ Bases de datos
+- MySQL, SQL Server, PostgreSQL
+- MongoDB (NoSQL)
+
+### ☁️ Cloud & DevOps
+- Azure (despliegue de APIs)
+- Firebase (Auth, Hosting, Realtime DB)
+- Docker (contenedores backend)
+
+### 📱 Mobile
+- Android (Kotlin + Room + Firebase)
+- iOS (SwiftUI + Core Data)
+
+---
+
+## 🔧 Habilidades destacadas
+
+- Diseño e implementación de APIs RESTful
+- Arquitectura en capas (Controller, Service, Repository)
+- Validación de datos y manejo de excepciones
+- Seguridad con JWT y Spring Security
+- Documentación con Swagger / OpenAPI
+- Testing (JUnit, Mockito, Postman)
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 Aquí encontrarás proyectos donde aplico:
+- Desarrollo backend con Spring Boot y .NET  
+- Integración con bases de datos  
+- Consumo y creación de APIs REST  
+- Aplicaciones web y móviles  
+
+👉 Revisa mis repositorios para ver implementaciones reales.
+
+---
+
+## 📜 Certificaciones
+
+- Java 21  
+- Linux Essentials  
+- Python  
+- SQL Server Fundamentals  
+- Análisis de Datos con Python  
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Next.js  
+- Mejores prácticas en arquitectura backend  
+- Optimización y despliegue con Docker  
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/guilmar-smith-calvo-joaqu%C3%ADn-41b254332/  
+- 🌐 Portafolio: https://guilmarcj.github.io/Portafolio/  
+- 📧 Email: guilmarscj@gmail.com  
+
+---
+
+💡 *Disponible para prácticas y oportunidades como desarrollador junior.*
